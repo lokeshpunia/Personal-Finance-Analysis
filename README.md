@@ -26,4 +26,4 @@ This project is a customizable finance dashboard designed to help you control yo
 This project is for personal use only. Redistribution or commercial use is not permitted.
 
 ## Author
-Created by [Your Name]. Feel free to reach out for suggestions or improvements!
+Created by Lokesh Punia. Feel free to reach out for suggestions or improvements!
